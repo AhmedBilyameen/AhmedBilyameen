@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Bilyaminu Ahmad
 
 I'm a passionate **Backend Developer** with a strong focus on building scalable, secure, and real-world backend systems using **Node.js**, **Express**, and **MongoDB**. My work reflects clean architecture, robust authentication mechanisms, and production-ready APIs that solve real business needs.
+As a self-learned creative and passionate programmer/developer I like to build and develop software for any platform. Learning, improving skills, solving problems, and adapting to new technologies are my hobbies. I can give my total effort and work well in a team, with responsibility.
 
 ## 💼 Projects That Define Me:
 - 🚀 **[FreshMart Supermarket Backend](https://github.com/AhmedBilyameen/freshmart-backend)**  
